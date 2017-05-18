@@ -6,12 +6,12 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>br.gov.pa.iasep</groupId>
-	<artifactId>e-saude</artifactId>
+	<artifactId>exampleapp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 
-	<name>E-Saúde</name>
-	<description>E-Saúde - Módulo Ambulatorial</description>
+	<name>Example App JBoss EAP 7</name>
+	<description>Aplicação exemplo do uso da arquitetura prodepa para o JBoss EAP 7</description>
 
 	<repositories>
 		<repository>
