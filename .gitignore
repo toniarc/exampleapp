@@ -1,0 +1,11 @@
+# Eclipse
+backend/.classpath
+backend/.project
+backend/.settings/
+
+# Maven
+backend/log/
+backend/target/
+
+#vscode
+frontend/node_modules/
